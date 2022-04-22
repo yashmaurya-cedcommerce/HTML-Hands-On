@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Template_1</title>
+    <style>
+    .left{
+        float:left;
+        width:50%;
+    }
+    </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Amet corrupti sint nam eos inventore illum! Voluptatum quas quam fugiat harum, odit illo, quaerat pariatur odio voluptas quae, doloremque maiores! Qui ullam tempora sit nihil! Officiis repudiandae vero id illo deserunt itaque similique odit minima nostrum voluptatum repellendus delectus, neque quibusdam?</p>
+    <br>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla aut doloremque unde id, vero soluta fugit minima iusto doloribus molestias eligendi sequi. Iure vitae magnam laboriosam atque officiis quos rem debitis! Odit voluptas debitis aut? Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos reiciendis non ea sequi. Eligendi natus nesciunt iste veritatis facilis suscipit?</p>
+    <br><br><br>
+    <ul>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe, doloribus.</li>
+        <br>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus, vel.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid, aperiam.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, ducimus voluptatibus.</li>
+        <br>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+        <li>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</li>
+        <br>
+        <li>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolore!</li>
+        <li>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Iusto.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit.</li>
+        <li>Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellat, facilis?</li>
+    </ul>
+    <br><br><br><br>
+    <p class="left">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aspernatur omnis accusamus iusto, consectetur adipisci amet! Dolor autem nemo  voluptatibus unde, dolores magni cupiditate? Labore voluptates cum dolore dignissimos illum autem, nam odio quaerat reiciendis laborum illo reprehenderit id ex! Eligendi totam alias officia iste id esse. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Porro explicabo eveniet accusamus ab aliquid asperiores omnis quam molestiae, odio atque? </p>
+    <p class="right">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Iste adipisci sapiente sed in ratione sint magni eum molestias placeat officiis necessitatibus exercitationem similique minima expedita rerum, est facere dolor nemo iure consequatur ad et impedit animi saepe. Et, quos culpa necessitatibus vero facere quibusdam earum sint id ullam. Lorem ipsum, dolor sit amet consectetur adipisicing elit. Totam dolores molestiae laborum dolore dolorem, quis necessitatibus voluptates qui non iusto.</p>
+    </body>
+    </html>
